@@ -7,4 +7,5 @@ def main(x,y):
     Returns:
         str: return answer.
     """
-    return 
+    a = 2*(x+y)
+    return f"({x}+{y})*{2}={a}"
