@@ -7,4 +7,4 @@ def main(first,last):
     Returns:
         str: return answer.
     """
-    return f"{first}, {last}"
+    return f"{last}, {first}"
